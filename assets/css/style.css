@@ -26,7 +26,8 @@ header h1 {
     color: #d9dcd6;
 }
 
-nav {
+/* Nav components */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -65,6 +66,7 @@ header a {
     margin-left: 20px;
 }
 
+/* Content Articles -> styling for each individual article */
 .content-article {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,6 +89,8 @@ header a {
     font-size: 16px;
 }
 
+
+/* Helper classes to float images in the articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -110,6 +114,7 @@ header a {
     background-color: #2589bd;
 }
 
+/* Benefit Articles */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
