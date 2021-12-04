@@ -43,7 +43,7 @@ header li {
     margin-left: 25px;
 }
 
-a {
+header a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -115,15 +115,15 @@ a {
     color: #ffffff;
 }
 
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 /* Footer Section */
