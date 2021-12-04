@@ -7,22 +7,24 @@ The goal of this assignment is to modify the website to conform to the following
 GIVEN a webpage meets accessibility standards  
 WHEN I view the source code  
 THEN I find semantic HTML elements  
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
+WHEN I view the structure of the HTML elements  
+THEN I find that the elements follow a logical structure independent of styling and positioning  
+WHEN I view the icon and image elements  
+THEN I find accessible alt attributes  
+WHEN I view the heading attributes  
+THEN they fall in sequential order  
+WHEN I view the title element  
 THEN I find a concise, descriptive title
 
-technical requirements on top of this include: 
+Technical requirements on top of this include: 
 
 * Application's links all function correctly.
 
 * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
 * Application's CSS file is properly commented.
+
+  
 
 
 ## Screenshot of completed project
@@ -47,5 +49,6 @@ given blank alt attributes as they were abstract and purely decorative.
 
 ## Links
 
-[Live Website](https://mattyd96.github.io/bootcamp-week1-homework/)
+[Live Website](https://mattyd96.github.io/bootcamp-week1-homework/)  
+
 [My Github Account](https://github.com/mattyd96)
