@@ -45,7 +45,17 @@ Each div within both benefits and content were renamed to articles as they make 
 **Image Alt attributes**
 
 I gave the hero image and images within the content section alt attributes. The images within the benefits section were 
-given blank alt attributes as they were abstract and purely decorative.
+given blank alt attributes as they were abstract and purely decorative.  
+
+**CSS cleanup**
+
+I tried to find a balance between reuseability and protection of scope when cleaning up the css. I kept most selectors as specific as necessary to ensure they do not interfere with things that might be added to the website later.
+
+The selectors were reorganised to follow the page structure as well.
+
+**Commenting**
+
+I kept comments minimal for this webpage as it was smaller in scale. I used the comments to divide the areas of the page and css so other developers can easily spot sections and the corresponding css.
 
 ## Links
 
